@@ -1,4 +1,4 @@
-package prj_TpAula05;
+package prj_tp_aula05;
 
 import java.util.Scanner;
 
